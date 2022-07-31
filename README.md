@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 
 <h2> Hi, I'm Manoj A! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-![ManojTGN's github stats](https://github-readme-stats.vercel.app/api?username=ManojTGN&count_private=true&show_icons=true&theme=dark&hide_border=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojTGN&theme=dark&count_private=true&layout=compact)
+[![Linkedin Badge](https://img.shields.io/badge/-Manoj_A-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoj-a-6973461a1/)](https://www.linkedin.com/in/manoj-a-6973461a1/)
+[![Instagram Badge](https://img.shields.io/badge/-@__M4n0j__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_m4n0j_/)](https://www.instagram.com/_m4n0j_/)
+[![Gmail Badge](https://img.shields.io/badge/-Manoj_A-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Manoj.thunderviz@gmail.com)](mailto:Manoj.thunderviz@gmail.com)
+
+Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/ManojTGN), I am interested in Ai & ML also intrested on developing games. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/manoj-a-6973461a1/)!
+
+![ManojTGN's github stats](https://github-readme-stats.vercel.app/api?username=ManojTGN&count_private=true&show_icons=true&theme=dark&hide_border=false)
