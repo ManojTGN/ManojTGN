@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/ManojTGN), I am interested in Ai & ML also intrested on developing games. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/manoj-a-6973461a1/)!
 
 
-### 🛠️ My favorite tools
+<h2> 🛠️ My favorite tools </h2>
 
 ### 👨‍💻 Programming and markup languages
 
