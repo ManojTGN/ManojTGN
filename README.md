@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi, I'm Manoj A! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ManojTGN&show_icons=true&theme=gotham" alt="ManojTGN" />
+![ManojTGN's github stats](https://github-readme-stats.vercel.app/api?username=ManojTGN&count_private=true&show_icons=true&theme=dark&hide_border=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojTGN&theme=dark&count_private=true)
