@@ -60,6 +60,8 @@ Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/ManojT
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
+<h2> 💪 My Github Stats </h2>
+
 <a href="https://github.com/ManojTGN">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManojTGN&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ManojTGN's GitHub Stats" />
 </a>
