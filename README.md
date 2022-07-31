@@ -53,6 +53,7 @@ Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/ManojT
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
+
 ### 🗄️ Databases and cloud hosting
 
 <p>
