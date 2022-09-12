@@ -71,7 +71,7 @@ Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/ManojT
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManojTGN&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ManojTGN's GitHub Stats" />
 </a>
 <a href="https://github.com/ManojTGN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojTGN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojTGN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=html,css,hack,php" />
 </a>
 
 <!--
