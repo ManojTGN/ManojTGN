@@ -1,11 +1,11 @@
 <h2> Hi, I'm Manoj A! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Manoj_A-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoj-a-6973461a1/)](https://www.linkedin.com/in/manoj-a-6973461a1/)
+[![Linkedin Badge](https://img.shields.io/badge/-Manoj_A-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manojbit/)](https://www.linkedin.com/in/manojbit/)
 [![Instagram Badge](https://img.shields.io/badge/-@__M4n0j__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_m4n0j_/)](https://www.instagram.com/_m4n0j_/)
 [![Gmail Badge](https://img.shields.io/badge/-Manoj_A-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Manoj.thunderviz@gmail.com)](mailto:Manoj.thunderviz@gmail.com)
 [![Spotify Badge](https://img.shields.io/badge/-@ManojTGN-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31coacig75i7cwnvsalo5yhlmhne)](https://open.spotify.com/user/31coacig75i7cwnvsalo5yhlmhne)
 
-Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/ManojTGN), I am interested in Ai & ML also intrested on developing games. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/manoj-a-6973461a1/)!
+I'm Manoj, aspiring [Coder](https://github.com/ManojTGN), interested in  rendering engineering (computer graphics) and  I'd love to enhance my knowledge about new and emerging trends in Information Technology domain. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/manojbit/)!
 
 
 <h2> 🛠️ My favorite tools </h2>
