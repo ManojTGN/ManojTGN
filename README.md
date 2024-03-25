@@ -7,6 +7,7 @@
 
 I'm Manoj, aspiring [Coder](https://github.com/ManojTGN), interested in  rendering engineering (computer graphics) and  I'd love to enhance my knowledge about new and emerging trends in Information Technology domain. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/manojbit/)!
 
+-> *who's that on your profile pic?* **Myself On Minecraft**
 <br>
 <h3>Take A Look At My <a href="http://manojtgn.me/">🎩Portfolio</a>!</h3>
 
