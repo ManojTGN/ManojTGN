@@ -13,7 +13,7 @@ I'm Manoj, aspiring [Coder](https://github.com/ManojTGN), interested in  renderi
 
 ---
 
-<h2> 💪 My Github Stats </h2>
+<h2> My Github Stats </h2>
 
 <a href="https://github.com/ManojTGN">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManojTGN&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ManojTGN's GitHub Stats" />
