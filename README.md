@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@__M4n0j__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_m4n0j_/)](https://www.instagram.com/_m4n0j_/)
 [![Spotify Badge](https://img.shields.io/badge/-@ManojTGN-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31coacig75i7cwnvsalo5yhlmhne)](https://open.spotify.com/user/31coacig75i7cwnvsalo5yhlmhne)
 
-I'm Manoj, aspiring [Coder](https://github.com/ManojTGN), interested in  rendering engineering (computer graphics) and  I'd love to enhance my knowledge about new and emerging trends in Information Technology domain. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/manojbit/)! \
+I'm Manoj, aspiring Coder, interested in  rendering engineering (computer graphics) and  I'd love to enhance my knowledge about new and emerging trends in Information Technology domain. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/manojbit/)! \
 \
 🎓 Take A Look At My [Portfolio](http://manojtgn.me/)!
 
