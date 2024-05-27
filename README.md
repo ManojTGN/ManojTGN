@@ -10,8 +10,8 @@ I'm Manoj, aspiring [Coder](https://github.com/ManojTGN), interested in  renderi
 
 ## ✨ Github Stats
 <p align="center">
-  <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=ManojTGN&theme=dark&show_icons=true" alt="WikkiE's Github Stats" />
-  <img width="340" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojTGN&theme=dark&show_icons=true&layout=compact" alt="WikkiE's Github Top languages" />
+  <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=ManojTGN&theme=dark&show_icons=true" alt="ManojTGN's Github Stats" />
+  <img width="340" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojTGN&theme=dark&show_icons=true&layout=compact&hide=ejs,html,css,php,hack" alt="ManojTGN's Github Top languages" />
 </p>
 <!--
 ![ManojTGN's github stats](https://github-readme-stats.vercel.app/api?username=ManojTGN&count_private=true&show_icons=true&theme=dark&hide_border=false)
