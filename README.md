@@ -1,4 +1,5 @@
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm Manoj A!
+## <img src="https://github.com/ManojTGN/ManojTGN/assets/42494649/3de703e3-1f77-4e6d-a807-80306bbd0432" width="40"> I'm Manoj A!
+
 [![Linkedin Badge](https://img.shields.io/badge/-Manoj_A-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manojbit/)](https://www.linkedin.com/in/manojbit/)
 [![Gmail Badge](https://img.shields.io/badge/-Manoj_A-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Manoj.thunderviz@gmail.com)](mailto:manojanguraja@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@__M4n0j__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_m4n0j_/)](https://www.instagram.com/_m4n0j_/)
